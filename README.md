@@ -23,7 +23,7 @@ I'm a Computer Science student focused on **software development, problem solvin
 
 I enjoy turning ideas into working applications — from backend systems and web applications to machine learning and computer vision projects.
 
-- 💻 Building with **Java, Python and JavaScript**
+- 💻 Building with **Python, Java and JavaScript**
 - 🧠 Exploring **Machine Learning, NLP and Computer Vision**
 - ⚙️ Interested in **Backend Development & REST APIs**
 - 🧩 Strengthening **Data Structures & Algorithms**
@@ -146,7 +146,7 @@ Computer vision application for detecting and analyzing human body poses from vi
 <tr>
 <td>🧩</td>
 <td><b>Data Structures & Algorithms</b></td>
-<td>Problem solving with Java</td>
+<td>Problem solving with Python</td>
 </tr>
 
 <tr>
