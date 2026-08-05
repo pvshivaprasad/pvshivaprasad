@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student focused on **software development, problem solving, and AI/ML**.
+I'm a Computer Science(AI-ML) student focused on **software development, problem solving, and AI/ML**.
 
 I enjoy turning ideas into working applications — from backend systems and web applications to machine learning and computer vision projects.
 
