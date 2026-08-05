@@ -139,16 +139,6 @@ Computer vision application for detecting and analyzing human body poses from vi
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvshivaprasad&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
 
 ## 🎯 Currently Building
 
