@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning;Computer+Vision+%7C+NLP+%7C+Backend;Building+Intelligent+Software"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=Python+Developer;AI+%26+Machine+Learning;Computer+Vision+%7C+NLP+%7C+Backend;Building+Intelligent+Software"
     alt="Typing SVG"
   />
 </p>
