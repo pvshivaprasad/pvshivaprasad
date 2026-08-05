@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Venkata Shiva Prasad Punna</h1>
 
-<h3 align="center">Software Developer | AI/ML Enthusiast</h3>
+<h3 align="center">🐍 Python Developer | 🤖 AI & Machine Learning | ⚙️ Backend Engineering</h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&center=true&vCenter=true&width=650&lines=Python+%7C+Java+%7C+Data+Structures;AI+%26+Machine+Learning;Backend+%26+Full-Stack+Development;Building+Real-World+Software"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning;Computer+Vision+%7C+NLP+%7C+Backend;Building+Intelligent+Software"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/pvshivaprasad">
-    <img src="https://img.shields.io/badge/GitHub-pvshivaprasad-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-pvshivaprasad-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
