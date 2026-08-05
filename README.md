@@ -143,22 +143,37 @@ Computer vision application for detecting and analyzing human body poses from vi
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=pvshivaprasad&show_icons=true&hide_border=true&rank_icon=github"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvshivaprasad&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvshivaprasad&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Building
 
-```text
-Data Structures & Algorithms  ███████████████░░░░░
-Java                          ████████████████░░░░
-Python                        █████████████████░░░
-Backend Development           ██████████████░░░░░░
-AI / Machine Learning         ███████████████░░░░░
+<table>
+<tr>
+<td>🧩</td>
+<td><b>Data Structures & Algorithms</b></td>
+<td>Problem solving with Java</td>
+</tr>
+
+<tr>
+<td>⚙️</td>
+<td><b>Backend Development</b></td>
+<td>REST APIs, Node.js & databases</td>
+</tr>
+
+<tr>
+<td>🤖</td>
+<td><b>AI / Machine Learning</b></td>
+<td>Building practical intelligent applications</td>
+</tr>
+
+<tr>
+<td>🐍</td>
+<td><b>Python Development</b></td>
+<td>Automation, ML & application development</td>
+</tr>
+</table>
