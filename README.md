@@ -1,95 +1,164 @@
 <h1 align="center">Hi 👋, I'm Venkata Shiva Prasad Punna</h1>
 
+<h3 align="center">Software Developer | AI/ML Enthusiast</h3>
+
 <p align="center">
-  <b>Software Developer | Java • Python • DSA | AI/ML Enthusiast</b>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+Data+Structures;AI+%26+Machine+Learning;Backend+%26+Full-Stack+Development;Building+Real-World+Software"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  I build practical software projects, AI/ML applications, and backend systems with a focus on clean implementation and real-world usability.
+  <a href="https://github.com/pvshivaprasad">
+    <img src="https://img.shields.io/badge/GitHub-pvshivaprasad-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science student passionate about software development and AI/ML
-- 💻 Comfortable with Java, Python, JavaScript, SQL, and Git/GitHub
-- 🧠 Interested in backend development, machine learning, computer vision, and problem solving
-- 🚀 Building projects that combine functionality, simplicity, and strong technical fundamentals
-- 📚 Currently strengthening Data Structures & Algorithms and core computer science concepts
+I'm a Computer Science student focused on **software development, problem solving, and AI/ML**.
 
----
+I enjoy turning ideas into working applications — from backend systems and web applications to machine learning and computer vision projects.
 
-## Tech Stack
-
-**Languages:** Java, Python, JavaScript, SQL  
-**AI/ML:** Scikit-learn, OpenCV, NLP, Computer Vision, Gemini AI  
-**Backend & Web:** Node.js, Express.js, Streamlit, REST APIs  
-**Databases:** MongoDB, SQLite  
-**Tools:** Git, GitHub, VS Code, Postman
+- 💻 Building with **Java, Python and JavaScript**
+- 🧠 Exploring **Machine Learning, NLP and Computer Vision**
+- ⚙️ Interested in **Backend Development & REST APIs**
+- 🧩 Strengthening **Data Structures & Algorithms**
+- 🚀 Focused on writing cleaner, scalable and maintainable software
 
 ---
 
-## Featured Projects
+## ⚡ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
+
+`SQL`
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+`Machine Learning` `Scikit-learn` `NLP` `Computer Vision` `Gemini AI`
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+`REST APIs` `SQLite` `Streamlit`
+
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 AI Resume Analyzer
-AI-powered resume analysis app that extracts resume information, checks ATS-related issues, and generates intelligent feedback.
 
-**Tech:** Python • Streamlit • Gemini AI • PyMuPDF • NLP  
-🔗 https://github.com/pvshivaprasad/AI_RESUME_ANALYZER
+AI-powered application that extracts resume information, performs ATS-oriented analysis and generates intelligent feedback.
+
+**Tech**
+
+`Python` `Streamlit` `Gemini AI` `PyMuPDF` `NLP`
+
+<a href="https://github.com/pvshivaprasad/AI_RESUME_ANALYZER">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🌐 GlobalPad
+
 Web-based file management and sharing application with persistent storage and backend file operations.
 
-**Tech:** Node.js • Express.js • MongoDB • GridFS • JavaScript  
-🔗 https://github.com/pvshivaprasad/GlobalPad
+**Tech**
 
-### 🍱 Food Waste Management System
-Data-driven application for managing and analyzing food donation and waste information.
+`Node.js` `Express.js` `MongoDB` `GridFS` `JavaScript`
 
-**Tech:** Python • Streamlit • SQLite • Pandas  
-🔗 https://github.com/pvshivaprasad/Food_Waste_Management
+<a href="https://github.com/pvshivaprasad/GlobalPad">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🍱 Food Waste Management
+
+Application for managing and analyzing food donation and waste information.
+
+**Tech**
+
+`Python` `Streamlit` `SQLite` `Pandas`
+
+<a href="https://github.com/pvshivaprasad/Food_Waste_Management">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🧍 Human Pose Estimation
-Computer vision project for detecting and analyzing human body poses from visual input.
 
-**Tech:** Python • OpenCV • Computer Vision  
-🔗 https://github.com/pvshivaprasad/HumanPoseEstimation
+Computer vision application for detecting and analyzing human body poses from visual input.
 
-### 💳 Full Stack / Payment Projects
-Full-stack practice projects focused on frontend-backend integration and database handling.
+**Tech**
 
-**Tech:** JavaScript • Node.js • Express.js • MongoDB  
-🔗 https://github.com/pvshivaprasad
+`Python` `OpenCV` `Computer Vision`
 
----
+<a href="https://github.com/pvshivaprasad/HumanPoseEstimation">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## Currently Focusing On
-
-- Data Structures & Algorithms
-- Java problem solving
-- Backend development
-- Machine Learning and AI applications
-- Building polished portfolio projects
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Goals
-
-- Write cleaner production-style code
-- Build stronger project documentation
-- Contribute to meaningful projects
-- Improve interview-ready problem solving
-
----
-
-## Connect With Me
-
-- GitHub: https://github.com/pvshivaprasad
-- LinkedIn: add your profile link here
-
----
+## 📊 GitHub Activity
 
 <p align="center">
-  <i>Build. Learn. Improve. Repeat.</i>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=pvshivaprasad&show_icons=true&hide_border=true&rank_icon=github"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvshivaprasad&layout=compact&hide_border=true"
+  />
 </p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Data Structures & Algorithms  ███████████████░░░░░
+Java                          ████████████████░░░░
+Python                        █████████████████░░░
+Backend Development           ██████████████░░░░░░
+AI / Machine Learning         ███████████████░░░░░
