@@ -74,9 +74,14 @@ AI-powered application that extracts resume information, performs ATS-oriented a
 
 `Python` `Streamlit` `Gemini AI` `PyMuPDF` `NLP`
 
-<a href="https://github.com/pvshivaprasad/AI_RESUME_ANALYZER">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://airesumeanalyzer814.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pvshivaprasad/AI_RESUME_ANALYZER">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 
@@ -84,15 +89,20 @@ AI-powered application that extracts resume information, performs ATS-oriented a
 
 ### 🌐 GlobalPad
 
-Web-based file management and sharing application with persistent storage and backend file operations.
+Full-stack digital workspace for storing notes and sharing files across devices using persistent cloud storage.
 
 **Tech**
 
 `Node.js` `Express.js` `MongoDB` `GridFS` `JavaScript`
 
-<a href="https://github.com/pvshivaprasad/GlobalPad">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://windpad.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pvshivaprasad/GlobalPad">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 </tr>
@@ -102,15 +112,20 @@ Web-based file management and sharing application with persistent storage and ba
 
 ### 🍱 Food Waste Management
 
-Application for managing and analyzing food donation and waste information.
+Data-driven application for managing food providers, receivers, listings and claims while analyzing food distribution data.
 
 **Tech**
 
-`Python` `Streamlit` `SQLite` `Pandas`
+`Python` `Streamlit` `SQLite` `Pandas` `SQL`
 
-<a href="https://github.com/pvshivaprasad/Food_Waste_Management">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://foodwastemanagement814.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pvshivaprasad/Food_Waste_Management">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 
@@ -118,21 +133,24 @@ Application for managing and analyzing food donation and waste information.
 
 ### 🧍 Human Pose Estimation
 
-Computer vision application for detecting and analyzing human body poses from visual input.
+Computer vision application that detects human body keypoints and visualizes pose estimation using OpenCV DNN and OpenPose.
 
 **Tech**
 
-`Python` `OpenCV` `Computer Vision`
+`Python` `Streamlit` `OpenCV` `OpenPose` `Computer Vision`
 
-<a href="https://github.com/pvshivaprasad/HumanPoseEstimation">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://humanposeestimation.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pvshivaprasad/HumanPoseEstimation">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 </tr>
 </table>
-
----
 
 
 ## 🎯 Currently Building
