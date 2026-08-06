@@ -5,12 +5,23 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning;Computer+Vision+%7C+NLP+%7C+Backend;Building+Intelligent+Software" alt="Typing SVG" /> </p>
 
 <p align="center">
+
   <a href="https://portfolio-steel-pi-p1ubalod6k.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💼%20PORTFOLIO-0D1117?style=for-the-badge&labelColor=0D1117&color=2196F3"/>
   </a>
+
+  <a href="https://portfolio-steel-pi-p1ubalod6k.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20VISIT%20WEBSITE-2563EB?style=for-the-badge"/>
+  </a>
+
   <a href="https://github.com/pvshivaprasad">
-    <img src="https://img.shields.io/badge/GitHub-pvshivaprasad-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=22C55E"/>
   </a>
+
+  <a href="https://github.com/pvshivaprasad">
+    <img src="https://img.shields.io/badge/👤%20PVSHIVAPRASAD-0D1117?style=for-the-badge&color=9333EA"/>
+  </a>
+
 </p>
 ## 👨‍💻 About Me
 
