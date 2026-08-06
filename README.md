@@ -4,7 +4,6 @@
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning;Computer+Vision+%7C+NLP+%7C+Backend;Building+Intelligent+Software" alt="Typing SVG" /> </p>
 
-
 <p align="center">
   <a href="https://portfolio-steel-pi-p1ubalod6k.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -13,7 +12,6 @@
     <img src="https://img.shields.io/badge/GitHub-pvshivaprasad-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
----
 
 ## 👨‍💻 About Me
 
