@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://portfolio-steel-pi-p1ubalod6k.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://github.com/pvshivaprasad">
-    <img src="https://img.shields.io/badge/GitHub-pvshivaprasad-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
